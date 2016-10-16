@@ -62,7 +62,7 @@ Példafolyamat:
 ![](sajatimages/peldafolyamat.png)
 
 
-#####2. Architektúra terv
+####2. Architektúra terv
 
 ######2.1. Oldaltérkép:
 

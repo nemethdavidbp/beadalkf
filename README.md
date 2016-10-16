@@ -97,3 +97,7 @@ Példafolyamat:
 * GET/raktr/delete=id: raktári termék törlése
 * GET/raktr/edit=id: raktári termék módosítása
 * POST/raktr/edit=id: raktári termék módosítása, adatok elküldése
+
+######2.2.1. Adatmodell
+![](sajatimages/adatbazis-modell.png)
+
